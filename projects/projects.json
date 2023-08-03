@@ -3,7 +3,7 @@
     "name": "responsive-coffee-website",
     "desc": "This is a responsive coffee website built with HTML, CSS, and JavaScript.",
     "image": "coffee",
-    "category": "Websites",
+    // "category": "Websites",
     "links": {
       "view": "",
       "code": "https://github.com/InuriGunathilaka22/responsive-coffee-website.git"
@@ -13,7 +13,7 @@
     "name": "Clone Music App",
     "desc": "Master modern web development by building an improved version of Spotify.",
     "image": "lyriks",
-    "category": "Websites",
+    // "category": "Websites",
     "links": {
       "view": "",
       "code": "https://github.com/InuriGunathilaka22/project_music_player.git"
@@ -23,7 +23,7 @@
     "name": "FB Engagement Bait Detector",
     "desc": "Empirical study to investigate a user protection scheme to avoid user protection scheme to avoid user interaction for baiting on Facebook",
     "image": "research",
-    "category": "Websites",
+    // "category": "Websites",
     "links": {
       "view": "",
       "code": "https://github.com/InuriGunathilaka22/Final-Year-Research--Facebook-Engagemenet-bait-detector.git"
@@ -33,7 +33,7 @@
     "name": "Door Lock",
     "desc": "The door lock system utilizes face detection technology to automatically unlock the door when it detects an enrolled face.",
     "image": "IoT",
-    "category": "other",
+    // "category": "other",
     "links": {
       "view": "",
       "code": "https://github.com/InuriGunathilaka22/IoT-Based-Face-Recognition-Smart-Door-Lock-.git"
@@ -43,7 +43,7 @@
     "name": "Coffee Table Book",
     "desc": "This is a collection of stunning photographs of animals from around the world and here is my first photoshop.",
     "image": "tablebook",
-    "category": "other",
+    // "category": "other",
     "links": {
       "view": "",
       "code": "https://github.com/InuriGunathilaka22/Coffee-Table-Book.git"
@@ -53,7 +53,7 @@
     "name": "Portfolio",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
     "image": "portfolio",
-    "category": "Websites",
+    // "category": "Websites",
     "links": {
       "view": "",
       "code": "https://github.com/InuriGunathilaka22/My-Portfolio.git"
@@ -63,7 +63,7 @@
     "name": "Ball-Rolling-Game",
     "desc": "The objective of the game is for the user to control a rolling ball and collect points.",
     "image": "Ball-Rolling",
-    "category": "other",
+    // "category": "other",
     "links": {
       "view": "",
       "code": "https://github.com/InuriGunathilaka22/Ball-Rolling-Game.git"
@@ -73,7 +73,7 @@
     "name": "adobe-premiere-pro-video",
     "desc": "This repository contains the work I've done to learn and practice video editing techniques.",
     "image": "video",
-    "category": "Other",
+    // "category": "Other",
     "links": {
       "view": "",
       "code": "https://github.com/InuriGunathilaka22/adobe-premiere-pro-video.git"
@@ -83,7 +83,7 @@
     "name": "Password Generator",
     "desc": "Built a Password generator using HTML, CSS and JavaScript",
     "image": "pswd",
-    "category": "Game Development",
+    // "category": "Game Development",
     "links": {
       "view": "",
       "code": "https://github.com/InuriGunathilaka22/Password-Generator.git"
@@ -93,7 +93,7 @@
     "name": "Analog Digital Clock",
     "desc": "A simple web application that displays an analog and digital clock. It's built using HTML, CSS, and JavaScript.",
     "image": "clock",
-    "category": "Websites",
+    // "category": "Websites",
     "links": {
       "view": "",
       "code": "https://github.com/InuriGunathilaka22/Analog-and-Digital-Clock.git"
